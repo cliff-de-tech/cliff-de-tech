@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I’m Clifford Opoku-Sarkodie — aka cliff-de-tech
 
-<!--
-**cliff-de-tech/cliff-de-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Back-End Developer | ALX Learner | Building APIs & Secure Systems
 
-Here are some ideas to get you started:
+- 🔧 Languages: C, Python, Bash, SQL, JavaScript
+- 🛠 Frameworks & Tools: Flask, Node.js, Git, Docker
+- 📚 Currently learning: DevOps, CI/CD, Advanced backend architecture
+- 🔐 Security-focused: Love keeping systems tight & protected
+- 📫 Reach me: [Your Email or LinkedIn here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚒ Tech Toolbox
+![Skills](https://skillicons.dev/icons?i=python,c,git,bash,docker,nodejs,mysql,flask,linux)
+
+---
+
+### 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight)
