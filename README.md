@@ -1,12 +1,12 @@
 # 👋 Hey, I’m Clifford Opoku-Sarkodie — aka cliff-de-tech
 
-### 🧠 Back-End Developer | ALX Learner | Building APIs & Secure Systems
+### 🧠 Freelance Graphic Designer & UI/UX Designer @ CliffDesignz & TechSolutions | Web Designer | Aspiring Full-Stack Developer | Learning Back-End Developer | ALX Learner
 
-- 🔧 Languages: C, Python, Bash, SQL, JavaScript
-- 🛠 Frameworks & Tools: Flask, Node.js, Git, Docker
-- 📚 Currently learning: DevOps, CI/CD, Advanced backend architecture
+- 🔧 Languages: CSS, HTML, JavaScript
+- 🛠 Frameworks & Tools: Adobe Photoshop, Figma, VSCode
+- 📚 Currently learning: API, SQL, Advanced backend architecture
 - 🔐 Security-focused: Love keeping systems tight & protected
-- 📫 Reach me: [Your Email or LinkedIn here]
+- 📫 Reach me: cliffdesignz@gmail.com / https://www.linkedin.com/in/clifford-opoku-sarkodie-377505369/
 
 ---
 
