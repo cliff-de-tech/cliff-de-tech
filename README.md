@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Clifford Opoku-Sarkodie — CEO of Cliff-De-Tech
 
-### 🧠 Freelance Graphic Designer & UI/UX Designer @ CliffDesignz & TechSolutions | Web Designer | Aspiring Full-Stack Developer | Learning Back-End Developer | ALX Learner
+### 🧠 Freelance Graphic Designer & UI/UX Designer @ CliffDesignz & TechSolutions | Web Designer | Aspiring Full-Stack Developer | Learning Back-End Development | ALX Learner
 
 - 🔧 Languages: CSS, HTML, JavaScript
 - 🛠 Frameworks & Tools: Adobe Photoshop, Figma, VSCode
