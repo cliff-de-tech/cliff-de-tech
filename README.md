@@ -80,10 +80,5 @@ I’m driven by curiosity, discipline, and the desire to create solutions that m
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/cliff-de-tech/cliff-de-tech/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ **"Building systems, solving problems, and improving every day."**
