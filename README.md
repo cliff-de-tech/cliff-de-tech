@@ -34,16 +34,18 @@ I’m driven by curiosity, discipline, and the desire to create solutions that m
 
 ---
 
-### 💼 Featured Projects
+### 💼 Back-End Monthly Work Log.
 
-📌 **[ALX Backend Engineering Projects](https://github.com/cliff-de-tech/alx-backend)**  
-> A collection of practical backend development projects from my ALX program, covering Bash scripting, APIs, and database design.
+📌 **[Month 1](https://github.com/cliff-de-tech/cliff-de-tech/blob/main/MONTH_1.md) 
+> A collection of practical backend development learning progress from my ALX program, Git, Python...
 
-📌 **[Portfolio Website](https://cliff-de-tech.github.io/)**  
-> My personal website showcasing my designs, tech projects, and professional journey.
 
-📌 **[iFix Solutions (Personal Project)](https://github.com/cliff-de-tech/ifix-solutions)**  
-> A concept repair business site for iPhone and PC support — merging my tech repair background with my web dev skills.
+---
+
+### 💼 Computer Science Degree Work Log.(UoPeople)
+
+📌 **[Term 1](https://github.com/cliff-de-tech/cliff-de-tech/blob/main/MONTH_1.md) 
+> A collection of practical backend development learning progress from my ALX program, Git, Python...
 
 ---
 
