@@ -36,7 +36,7 @@ I’m driven by curiosity, discipline, and the desire to create solutions that m
 
 ### 💼 Back-End Monthly Work Log.
 
-📌 **[Month 1](https://github.com/cliff-de-tech/cliff-de-tech/blob/main/MONTH_1.md) 
+📌 [Month 1](https://github.com/cliff-de-tech/cliff-de-tech/blob/main/MONTH_1.md) 
 > A collection of practical backend development learning progress from my ALX program, Git, Python...
 
 
@@ -44,8 +44,7 @@ I’m driven by curiosity, discipline, and the desire to create solutions that m
 
 ### 💼 Computer Science Degree Work Log.(UoPeople)
 
-📌 **[Term 1](https://github.com/cliff-de-tech/cliff-de-tech/blob/main/MONTH_1.md) 
-> A collection of practical backend development learning progress from my ALX program, Git, Python...
+📌 Term 1...
 
 ---
 
