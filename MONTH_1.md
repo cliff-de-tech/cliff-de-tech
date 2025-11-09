@@ -63,6 +63,6 @@ I focused on understanding how the web works, mastering Git & GitHub, and develo
 ---
 
 ### 🔗 Connect
-- **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/clifford-opoku-sarkodie/)](#)  
-- **Portfolio:** [[My Porfolio Website](https://cliff-de-tech.github.io/)](#)  
+- **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/clifford-opoku-sarkodie/)] 
+- **Portfolio:** [[My Porfolio Website](https://cliff-de-tech.github.io/)]
 - **Email:** cliffdesignz@gmail.com
