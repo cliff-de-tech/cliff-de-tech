@@ -17,11 +17,10 @@ I'm a systems-minded developer who blends creativity with engineering precision.
 I move between hardware and software effortlessly—optimizing systems, fixing devices, and architecting scalable solutions. My mission is to master end-to-end system development with a long-term goal of contributing to **Defense & Military Technology**.
 
 - 🔭 **Building:** Scalable APIs · System Tools · Full-Stack Apps  
-- 🎓 **Studying:** Programming Fundamentals (UoPeople)  
+- 🎓 **Studying:** Computer Science (UoPeople), Back-End Development  
 - 🌱 **Growing in:** Docker · Cybersecurity · Cloud Deployment  
-- 🎨 **Creative Strength:** UI/UX flows & Figma prototyping  
+- 🎨 **Creative Strength:** UI/UX, Grapgic Design & Web Development 
 - 🎯 **Future Path:** Tech roles in US/UK Military Defense  
-- 🛠️ **Tech Repair:** iPhones, PCs & Diagnostics (Cliff_Tech Solutions)
 
 ---
 
@@ -30,8 +29,6 @@ I move between hardware and software effortlessly—optimizing systems, fixing d
 ### 🏗️ Core Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ### 🎨 Frontend Experience  
