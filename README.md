@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Secure%20System%20Design-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Technology-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Origin-Ghana🇬🇭-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Back--End%20Developer%20(ALX)-orange?style=flat-square" />
 </p>
