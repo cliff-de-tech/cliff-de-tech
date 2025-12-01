@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=50" width="100%"/>
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full-Stack+Engineer;Systems+Architect+%7C+Tech+Leader;Building+Scalable+Solutions;Optimizing+Hardware+%26+Software" alt="typing" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full-Stack+Engineer;Back-End+Developer+%7C+UI%2FUX+Designer;Building+Scalable+Solutions;Optimizing+Hardware+%26+Software" alt="typing" />
     </a>
   </h1>
 
