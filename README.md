@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50" width="100%"/>
 
   <h1>
     <a href="https://git.io/typing-svg">
@@ -118,23 +118,23 @@ I work across **hardware and software**—optimizing systems, repairing devices,
 ---
 
 <div align="center">
-  <h2>📊 GitHub Activity</h2>
+  <h2>📊 The Data</h2>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
-  </a>
-  <br/><br/>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-de-tech&theme=tokyonight&hide_border=true" height="170" alt="Streak" />
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliff-de-tech&theme=tokyonight" alt="Profile Details" />
+    <br/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cliff-de-tech&theme=tokyonight" alt="Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cliff-de-tech&theme=tokyonight" alt="Productive Time" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
+  <p>
+    <a href="https://github.com/cliff-de-tech">
+      <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15"/>
+    </a>
   </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity graph" />
+  
 </div>
 
 ---
