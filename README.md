@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist&descAlignY=55&descAlign=50" width="100%"/>
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full-Stack+Engineer;Back-End+Developer+%7C+UI%2FUX+Designer;Building+Scalable+Solutions;Optimizing+Hardware+%26+Software" alt="typing" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=Creative+Technologist+%7C+Web+Developer;Graphics+%26+UI%2FUX+Designer;Bridging+Design+with+Code;Building+Scalable+Solutions" alt="typing" />
     </a>
   </h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Creative%20Technology-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Bridging%20Design%20%26%20Code-blueviolet?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Origin-Ghana%F0%9F%87%AD%F0%9F%87%AD-green?style=flat-square" alt="Origin" />
     <img src="https://img.shields.io/badge/Role-Back--End%20Developer%20(ALX)-orange?style=flat-square" alt="Role" />
     <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat-square" alt="Status" />
@@ -33,9 +33,9 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
 
-I'm a **systems-minded developer** who blends creative problem-solving with engineering precision. I'm currently advancing through the **ALX Back-End Engineering** program while pursuing a **BSc in Computer Science** at the **University of the People**.
+I am a **Creative Technologist** who bridges the gap between **aesthetic design** and **robust engineering**. I don't just write code; I design systems that look beautiful and perform flawlessly.
 
-I work across **hardware and software**—optimizing systems, repairing devices, and architecting scalable solutions. My mission is to master end-to-end system development and contribute to **defense and cybersecurity technology** in the future.
+I'm currently advancing through the **ALX Back-End Engineering** program while pursuing a **BSc in Computer Science** at the **University of the People**. I work across **hardware and software**—optimizing systems, repairing devices, and architecting scalable solutions.
 
 * 🔭 **Building:** Scalable REST APIs · System Tools · Full-Stack Apps
 * 🎓 **Studying:** Computer Science (UoPeople) · Back-End Development (ALX)
@@ -86,12 +86,13 @@ I work across **hardware and software**—optimizing systems, repairing devices,
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <h3>🎨 Frontend</h3>
+  <h3>🎨 Frontend & Design</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
   <h3>⚙️ Backend & APIs</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
