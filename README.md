@@ -65,7 +65,8 @@ I'm currently advancing through the **ALX Back-End Engineering** program while p
     <td valign="top">
       <b>ALX Back-End Engineering</b><br/>
       Tracking progress in Python, C, Shell scripting, and systems programming.<br/>
-      🔗 <a href="./MONTH_1.md">View Progress Notes</a><br/><br/>
+      🔗 <a href="./MONTH_1.md">View Month 1 Progress Notes</a><br/><br/>
+      🔗 <a href="./MONTH_2.md">View Month 2 Progress Notes</a><br/><br/>
       <b>University of the People</b><br/>
       BSc Computer Science (Foundation)<br/>
       Expected graduation: 2028
