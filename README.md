@@ -1,119 +1,178 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20(Backend%20%26%20Distributed%20Systems)&descAlignY=55&descAlign=50" width="100%"/>
-
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Architecting+Scalable+Fintech+%26+AI+Solutions;Bridging+Complex+Backends+with+Intuitive+Design;Specialized+in+Distributed+Systems+%26+Security;Python+%7C+FastAPI+%7C+Node.js+%7C+Kafka" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Clifford+Darko+Opoku-Sarkodie;Software+Engineer+%3A%3A+Backend+%2B+Security;Architecting+Distributed+Systems" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="https://github.com/cliff-de-tech">
+      <img src="https://img.shields.io/badge/FOCUS-High--Scale_Architecture-2ea44f?style=for-the-badge&logo=serverless&logoColor=white" />
     </a>
-  </h1>
-
-  <div align="center">
-    <a href="https://www.linkedin.com/in/clifford-opoku-sarkodie-377505369/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <a href="https://www.linkedin.com/in/clifford-opoku-sarkodie-377505369/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://cliff-de-tech.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Web-1da1f2?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
+    <a href="https://cliff-de-tech.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Demo-FF0050?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
-    <a href="mailto:cliffdesignz@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-    </a>
-  </div>
+  </p>
 </div>
+
+<br />
+
+> <h3 align="center">"I build systems that refuse to break."</h3>
+
+<p align="center">
+ I am a <b>Software Engineer</b> specializing in <b>Distributed Systems</b>, <b>Fintech Ledgers</b>, and <b>Application Security</b>. While others focus on making it work, I focus on making it scalable, secure, and idempotent. Currently pursuing my B.S. in Computer Science at <b>UoPeople</b>.
+</p>
+
+<br />
 
 ---
 
-## 👨🏾‍💻 The Engineer Who Designs
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiU1jJJkNcI/giphy.gif" width="180" style="border-radius: 12px; margin-left: 20px;">
-
-I believe that **great software** is born where **rigorous logic** meets **intuitive aesthetics**.
-
-I am a **Software Engineer** specializing in **Backend Architecture**, **Fintech Infrastructure**, and **Application Security**. Unlike traditional developers, I bridge the gap between complex distributed systems (ACID compliance, Event Sourcing) and the human experience.
-
-* 🔭 **Architecting:** High-concurrency fintech ledgers & AI-driven SaaS platforms.
-* 🎓 **Studying:** B.S. Computer Science (**UoPeople**) & Backend Engineering (**ALX**).
-* 🧠 **Core Philosophy:** "Code shouldn't just function; it should be robust, secure, and beautiful."
-* 🌍 **Origin:** Proudly building from **Ghana** 🇬🇭 for the world.
-
-<br clear="right"/>
-
----
-
-## ⚔️ Technical Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,kafka,redis,postgres,docker,kubernetes,linux,kali,nextjs,react,tailwind,figma&perline=15&theme=dark" />
-  </a>
-</div>
-
----
-
-## 🏆 Featured Architecture
-
-I don't just write scripts; I build production-grade systems. Here are my latest engineering feats:
-
-| Project | Domain | Tech Stack | Key Architecture |
-|:--- |:--- |:--- |:--- |
-| **[LedgerX](./ledgerx)** | 💸 Fintech | <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=dark&perline=3" height="20"/> | Double-entry bookkeeping, 10k TPS, ACID compliance. |
-| **[AuthForge](./authforge)** | 🔐 Security | <img src="https://skillicons.dev/icons?i=ts,nodejs,redis&theme=dark&perline=3" height="20"/> | Centralized IAM, RBAC, OAuth2, Argon2id hashing. |
-| **[EventFlow](./eventflow)** | 📡 Systems | <img src="https://skillicons.dev/icons?i=python,redis,docker&theme=dark&perline=3" height="20"/> | Event-driven architecture, Transactional Outbox Pattern. |
-| **[SupportIQ](./supportiq)** | 🤖 AI SaaS | <img src="https://skillicons.dev/icons?i=python,workers,ai&theme=dark&perline=3" height="20"/> | Multi-tenant architecture (RLS), AI sentiment analysis. |
-| **[Gatekeeper](./gatekeeper)** | 🛡️ NetSec | <img src="https://skillicons.dev/icons?i=ts,redis&theme=dark&perline=3" height="20"/> | Distributed rate limiting, Sliding Window algorithm. |
-| **[Post Bot](./post-bot)** | 🚀 Automation | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres&theme=dark&perline=3" height="20"/> | AI content generation pipeline, Fernet encryption at rest. |
-
----
-
-## 📊 Engineering Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliff-de-tech&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cliff-de-tech&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15"/>
-  </a>
-</div>
-
----
+<h2 align="center">⚡ Engineering Stack</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>🤝 Community Leadership</h3>
-      </td>
-      <td align="center" width="50%">
-        <h3>🛠️ Ventures</h3>
-      </td>
+      <td align="center" width="90"><b>Core</b></td>
+      <td align="center" width="90"><b>Backend</b></td>
+      <td align="center" width="90"><b>Data</b></td>
+      <td align="center" width="90"><b>Infra</b></td>
+      <td align="center" width="90"><b>Sec/Ops</b></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>ALX Back-End Dev Buddies</b><br/>
-        I actively engage in peer programming and code reviews, fostering an environment where open communication leads to cleaner code.
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,ts,c&theme=dark" />
       </td>
-      <td valign="top">
-        <b>Cliff_Tech Solutions</b><br/>
-        Founder & Lead Technician.<br/>
-        Applying engineering principles to hardware repair, diagnostics, and system optimization.
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux,kali,git&theme=dark" />
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=cliff-de-tech.cliff-de-tech&left_color=blue&right_color=green" alt="visitor badge" />
-  </p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+</div>
+
+<br />
+
+---
+
+<h2 align="center">📂 Selected Architecture</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">💸 LedgerX</h3>
+      <p align="center"><b>High-Performance Financial Ledger</b></p>
+      <p>
+        A double-entry bookkeeping system handling <b>10k TPS</b>. Features optimistic locking, ACID compliance, and immutable journaling for fintech.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=flat-square" />
+        <a href="./ledgerx">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 AuthForge</h3>
+      <p align="center"><b>Enterprise IAM Microservice</b></p>
+      <p>
+        Centralized Identity Management implementing <b>RBAC</b>, OAuth2 flows, Brute-force protection, and Argon2id encryption.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node-TypeScript-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Auth-OAuth2-000000?style=flat-square" />
+        <a href="./authforge">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📡 EventFlow</h3>
+      <p align="center"><b>Distributed Event Broker</b></p>
+      <p>
+        Reliability-first event streaming using the <b>Transactional Outbox Pattern</b>, Dead Letter Queues (DLQ), and Redis Streams.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Broker-Kafka%2FRedis-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pattern-Outbox-blue?style=flat-square" />
+        <a href="./eventflow">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ Gatekeeper</h3>
+      <p align="center"><b>Traffic Control Middleware</b></p>
+      <p>
+        Distributed rate-limiting middleware using <b>Redis Lua scripting</b> to implement Sliding Window algorithms with fail-open logic.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Lang-TypeScript-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square" />
+        <a href="./gatekeeper">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 SupportIQ</h3>
+      <p align="center"><b>AI-Powered Multi-Tenant SaaS</b></p>
+      <p>
+        B2B Support Platform using <b>Row-Level Security</b> (RLS) for isolation and AI for sentiment analysis and routing.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-OpenAI-00A67E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Async-Celery-37814A?style=flat-square" />
+        <a href="./supportiq">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Post Bot</h3>
+      <p align="center"><b>Social Automation Pipeline</b></p>
+      <p>
+         Converts GitHub activity into LinkedIn posts. Features <b>Fernet encryption</b> at rest for OAuth tokens and AI generation.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-Next.js-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM-Groq-orange?style=flat-square" />
+        <a href="./post-bot">
+          <img src="https://img.shields.io/badge/View_Code-➤-2ea44f?style=flat-square" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&theme=react&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:cliffdesignz@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
