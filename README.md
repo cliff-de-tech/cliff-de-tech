@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Backend%20%26%20Distributed%20Systems)&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Clifford%20Darko%20Opoku-Sarkodie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Backend%20%26%20Distributed%20Systems)&descAlignY=55&descAlign=50" width="100%"/>
 
   <h1>
     <a href="https://git.io/typing-svg">
