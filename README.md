@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Hero Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=700&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Clifford+Darko+Opoku-Sarkodie;Software+Engineer+%7C+Systems+Architect;Building+Unbreakable+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Clifford+Darko+Opoku-Sarkodie;Software+Engineer;Backend+Architect;System+Designer" alt="Typing SVG" />
   
   <br /><br />
   
@@ -27,6 +27,43 @@
 
 ---
 
+<!-- About Me Section -->
+<h2 align="center">
+  👋 About Me
+</h2>
+
+<div align="center">
+  <p>
+    I'm a <b>Software Engineer</b> passionate about building <b>resilient, high-scale distributed systems</b>.<br />
+    Currently focused on backend architecture, workflow automation, and continuous learning.
+  </p>
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td>🔭 <b>Currently working on:</b></td>
+    <td>Event-driven microservices & distributed systems</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning:</b></td>
+    <td>Advanced System Design & Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about:</b></td>
+    <td>Python, TypeScript, Distributed Systems, API Design</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun fact:</b></td>
+    <td>I build systems that refuse to break!</td>
+  </tr>
+</table>
+
+<br />
+
+---
+
 <!-- Quote Section -->
 <div align="center">
   
@@ -34,13 +71,47 @@
   
   > ### _"I build systems that refuse to break."_
   
-  <br />
-  
+  <br />  
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer+specializing+in+Distributed+Systems;Fintech+Ledgers+%26+Application+Security+Expert;I+don't+just+make+it+work—I+make+it+scalable%2C+secure%2C+observable" alt="Description" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer+specializing+in+Distributed+Systems;Financial+Tech+%7C+Event+Streaming+%7C+Identity+Management;Building+the+infrastructure+that+powers+modern+applications" alt="Typing SVG" />
 </p>
+
+<br />
+
+---
+
+<h2 align="center">
+  🎯 2026 Goals
+</h2>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td>⬜</td>
+      <td>Contribute to open-source distributed systems projects</td>
+    </tr>
+    <tr>
+      <td>⬜</td>
+      <td>Earn AWS Solutions Architect certification</td>
+    </tr>
+    <tr>
+      <td>⬜</td>
+      <td>Build and deploy a production-grade event streaming platform</td>
+    </tr>
+    <tr>
+      <td>⬜</td>
+      <td>Write technical blog posts on system design patterns</td>
+    </tr>
+    <tr>
+      <td>⬜</td>
+      <td>Master Kubernetes orchestration at scale</td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
@@ -75,7 +146,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons? i=python,ts,c&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,ts,c&theme=dark" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs&theme=dark" />
@@ -114,7 +185,7 @@
       </div>
       <br />
       <p align="center">
-        A double-entry bookkeeping system handling <b>10k TPS</b>.  Features optimistic locking, ACID compliance, and immutable journaling for fintech. 
+        A double-entry bookkeeping system handling <b>10k TPS</b>. Features optimistic locking, ACID compliance, and immutable journaling for fintech.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -122,7 +193,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <br /><br />
         <a href="./ledgerx">
-          <img src="https://img.shields.io/badge/View_Architecture-00D9FF? style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+          <img src="https://img.shields.io/badge/View_Architecture-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
       </div>
     </td>
@@ -172,7 +243,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛡️ Gatekeeper</h3>
-        <img src="https://img.shields.io/badge/Traffic_Control_Middleware-1a1a2e? style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Traffic_Control_Middleware-1a1a2e?style=for-the-badge" />
       </div>
       <br />
       <p align="center">
@@ -215,14 +286,14 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🚀 Post Bot</h3>
-        <img src="https://img.shields.io/badge/Social_Automation_Pipeline-1a1a2e? style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Social_Automation_Pipeline-1a1a2e?style=for-the-badge" />
       </div>
       <br />
       <p align="center">
-        Converts GitHub activity into LinkedIn posts.  Features <b>Fernet encryption</b> at rest for OAuth tokens and AI generation. 
+        Converts GitHub activity into LinkedIn posts. Features <b>Fernet encryption</b> at rest for OAuth tokens and AI generation.
       </p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Next. js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <br /><br />
@@ -245,20 +316,36 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87&currStreakNum=00FF87&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF0080&area_color=00D9FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF0080&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  🏆 Certifications & Achievements
+</h2>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_In_Progress-AWS_Solutions_Architect-FF9900?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📚_Learning-System_Design-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔧_Building-Production_Systems-00FF87?style=for-the-badge&labelColor=1a1a2e" />
 </div>
 
 <br />
@@ -278,7 +365,7 @@
   <a href="https://www.linkedin.com/in/clifford-opoku-sarkodie-377505369/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://cliff-de-tech.github. io/">
+  <a href="https://cliff-de-tech.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e" />
   </a>
 </div>
@@ -287,10 +374,10 @@
 
 <div align="center">
   
-  **Thanks for visiting! ** 👋
+  **Thanks for visiting!** 👋
   
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
   
 </div>
-
-<br />
