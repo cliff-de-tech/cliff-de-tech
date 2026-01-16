@@ -338,28 +338,20 @@
 
 <br />
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards - Using anuraghazra's vercel deployment -->
+<p align="center">
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9" height="180" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
-  </a>
-  
-</div>
+</p>
 
 <br />
 
-<div align="center">
-  
-  <!-- GitHub Streak - Using git.io redirect which is more reliable -->
+<p align="center">
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=cliff-de-tech&theme=algolia" alt="GitHub Streak" />
   </a>
-  
-</div>
+</p>
 
 <br />
 
@@ -367,7 +359,7 @@
   
   <!-- Activity Graph -->
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF0080&area_color=00D9FF&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
   </a>
   
 </div>
@@ -377,11 +369,11 @@
 <!-- GitHub Trophies Section -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-<div align="center">
-  <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
-</div>
+</p>
 
 <br />
 
