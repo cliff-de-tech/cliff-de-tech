@@ -3,7 +3,12 @@
   <!-- Hero Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Clifford+Darko+Opoku-Sarkodie;Software+Engineer;Backend+Architect;System+Designer" alt="Typing SVG" />
   
-  <br /><br />
+  <br />
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Hub&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  
+  <br />
   
   <!-- Badge Collection -->
   <p align="center">
@@ -21,6 +26,14 @@
   <!-- Stats Counter -->
   <img src="https://komarev.com/ghpvc/?username=cliff-de-tech&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile views" />
   
+  <!-- Animated Snake -->
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+  
 </div>
 
 <br />
@@ -29,11 +42,14 @@
 
 <!-- About Me Section -->
 <h2 align="center">
-  👋 About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  About Me
 </h2>
 
 <div align="center">
-  <p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF" />
+  <br />
+  <p align="left" style="width: 55%;">
     I'm a <b>Software Engineer</b> passionate about building <b>resilient, high-scale distributed systems</b>.<br />
     Currently focused on backend architecture, workflow automation, and continuous learning.
   </p>
@@ -69,7 +85,7 @@
   
   ### 💭 Philosophy
   
-  > ### _"I build systems that refuse to break."_
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20build%20systems%20that%20refuse%20to%20break.&author=Clifford%20Darko" alt="Quote" />
   
   <br />  
 </div>
@@ -118,12 +134,18 @@
 ---
 
 <h2 align="center">
-  ⚡ Engineering Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  Engineering Stack
 </h2>
 
 <br />
 
 <div align="center">
+  
+  <!-- Animated Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,fastapi,nodejs,nextjs,postgres,redis,kafka,docker,kubernetes,aws,linux,git&perline=7&theme=dark" alt="Tech Stack" />
+  
+  <br /><br />
   
   <!-- Tech Stack Grid -->
   <table>
@@ -170,7 +192,7 @@
 ---
 
 <h2 align="center">
-  📂 Featured Architecture Projects
+  ��� Featured Architecture Projects
 </h2>
 
 <br />
@@ -255,7 +277,7 @@
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
         <br /><br />
         <a href="./gatekeeper">
-          <img src="https://img.shields.io/badge/View_Architecture-FFD93D?style=for-the-badge&logo=github&logoColor=1a1a2e&labelColor=1a1a2e" />
+          <img src="https://img.shields.io/badge/View_Architecture-FFD93D?style=for-the-badge&logo=github&logoColor=1a1a2e" />
         </a>
       </div>
     </td>
@@ -310,26 +332,53 @@
 ---
 
 <h2 align="center">
-  📊 GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  GitHub Analytics
 </h2>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" alt="Top Languages" />
+  
+  <!-- GitHub Stats Cards - Using different providers for reliability -->
+  <a href="https://github.com/cliff-de-tech">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/cliff-de-tech">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+  </a>
+  
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87" alt="GitHub Streak" />
+  
+  <!-- GitHub Streak - Using alternative endpoint -->
+  <a href="https://github.com/cliff-de-tech">
+    <img src="https://streak-stats.demolab.com?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+  </a>
+  
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF0080&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/cliff-de-tech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliff-de-tech&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF0080&area_color=00D9FF&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph" />
+  </a>
+  
+</div>
+
+<br />
+
+<!-- Trophies Section -->
+<div align="center">
+  <a href="https://github.com/cliff-de-tech">
+    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br />
@@ -353,7 +402,8 @@
 ---
 
 <h2 align="center">
-  🤝 Let's Connect
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
+  Let's Connect
 </h2>
 
 <br />
@@ -374,10 +424,12 @@
 
 <div align="center">
   
-  **Thanks for visiting!** 👋
+  <!-- Animated Thank You -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!;Happy+coding!+%F0%9F%9A%80" alt="Typing SVG" />
   
-  <br />
+  <br /><br />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
   
 </div>
