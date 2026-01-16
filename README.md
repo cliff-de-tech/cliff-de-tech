@@ -192,7 +192,7 @@
 ---
 
 <h2 align="center">
-  ��� Featured Architecture Projects
+  📂 Featured Architecture Projects
 </h2>
 
 <br />
@@ -340,12 +340,12 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Cards - Using different providers for reliability -->
+  <!-- GitHub Stats Cards - Using anuraghazra's vercel deployment -->
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cliff-de-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF87&text_color=C9D1D9" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-de-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
   </a>
   
 </div>
@@ -354,9 +354,9 @@
 
 <div align="center">
   
-  <!-- GitHub Streak - Using alternative endpoint -->
+  <!-- GitHub Streak - Using git.io redirect which is more reliable -->
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://streak-stats.demolab.com?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cliff-de-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&sideNums=00FF87&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
   </a>
   
 </div>
@@ -374,10 +374,12 @@
 
 <br />
 
-<!-- Trophies Section -->
+<!-- GitHub Trophies Section -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+
 <div align="center">
   <a href="https://github.com/cliff-de-tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cliff-de-tech&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -386,7 +388,7 @@
 ---
 
 <h2 align="center">
-  🏆 Certifications & Achievements
+  🎖️ Certifications & Achievements
 </h2>
 
 <br />
